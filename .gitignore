@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Jupyter / 临时
+.ipynb_checkpoints/
+
+# 构建产物
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+All_plotpics/
+data/
+models/
