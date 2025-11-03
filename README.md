@@ -33,9 +33,9 @@ pip install -r requirements.txt
 ```env
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=AE1_tween_saved_data
+DB_NAME=Database
 DB_USER=postgres
-DB_PASSWORD=123456
+DB_PASSWORD=password
 ```
 
 ## 📁 项目结构
